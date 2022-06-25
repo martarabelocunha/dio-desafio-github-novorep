@@ -1,5 +1,5 @@
 # Desafio de projetos DIO - Criando repositórios Git/GitHub
-Novo repositório no Git/GitHub
+Novo repositório no Git/GitHub /n
 Editando o repositório a partir do GitHub
 
 ## Links úteis
