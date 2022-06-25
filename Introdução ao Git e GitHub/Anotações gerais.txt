@@ -1,0 +1,3 @@
+Links para consulta:
+- Download do Git: https://git-scm.com/downloads
+- Criação do GitHub: https://github.com/
